@@ -1,0 +1,14 @@
+C:\Users\kestu\Desktop\1paskaita\1paskaita\bin\Debug\net8.0\1paskaita.exe
+C:\Users\kestu\Desktop\1paskaita\1paskaita\bin\Debug\net8.0\1paskaita.deps.json
+C:\Users\kestu\Desktop\1paskaita\1paskaita\bin\Debug\net8.0\1paskaita.runtimeconfig.json
+C:\Users\kestu\Desktop\1paskaita\1paskaita\bin\Debug\net8.0\1paskaita.dll
+C:\Users\kestu\Desktop\1paskaita\1paskaita\bin\Debug\net8.0\1paskaita.pdb
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.AssemblyInfoInputs.cache
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.AssemblyInfo.cs
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.csproj.CoreCompileInputs.cache
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.dll
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\refint\1paskaita.dll
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.pdb
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\1paskaita.genruntimeconfig.cache
+C:\Users\kestu\Desktop\1paskaita\1paskaita\obj\Debug\net8.0\ref\1paskaita.dll
